@@ -4,8 +4,7 @@
 **PhD student at UTM University**
 
 - **Education**:
-    - *Masters in Computer Applications (MCA)*
-    - *MSc in Software Engineering*
+    - *Masters in Computer Applications (MCA)*  - *MSc in Software Engineering*
  
 
 - **Specializations**:
