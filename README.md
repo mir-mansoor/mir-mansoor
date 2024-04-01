@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mir Mansoor Ahmad</h1>
-<h3 align="center">A passionate  researcher and software developer </h3>
+<h3 align="center">Researcher and Software Developer </h3>
 
 
 - **Education**:
