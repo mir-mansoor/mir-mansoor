@@ -7,11 +7,13 @@
     - **MSc in Software Engineering**
     - **Current PhD Candidate at UTM University**
 
-**Research Specializations**:
+**Specializations**:
 - **Bioinformatics**
 - **Search Space Exploration**
 - **Deep Learning**
 - **Knowledge Graphs**
+- **Design and Analysis Algorithms**
+
 
 
 
