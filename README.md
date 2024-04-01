@@ -9,8 +9,8 @@
  
 
 - **Specializations**:
-- *Bioinformatics*
-- *Search Space Exploration*
+    - *Bioinformatics*
+    - *Search Space Exploration*
 - *Deep Learning*
 - *Knowledge Graphs*
 - *Design and Analysis Algorithms*
