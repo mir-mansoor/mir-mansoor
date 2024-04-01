@@ -4,17 +4,16 @@
 **PhD student at UTM University**
 
 - **Education**:
-    - **Masters in Computer Applications (MCA)**
-    - **MSc in Software Engineering**
+    - *Masters in Computer Applications (MCA)*
+    - *MSc in Software Engineering*
  
 
 **Specializations**:
-- Bioinformatics
-- Search Space Exploration
-- Deep Learning
-- **Knowledge Graphs**
-- **Design and Analysis Algorithms**
-
+- *Bioinformatics*
+- *Search Space Exploration*
+- *Deep Learning*
+- *Knowledge Graphs*
+- *Design and Analysis Algorithms*
 
 
 
