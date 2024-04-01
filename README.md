@@ -1,6 +1,20 @@
 <h1 align="center">Hi 👋, I'm Mir Mansoor Ahmad</h1>
 <h3 align="center">A passionate  researcher and software developer </h3>
 
+
+- **Education**:
+    - **Masters in Computer Applications (MCA)**
+    - **MSc in Software Engineering**
+    - **Current PhD Candidate at UTM University**
+
+**Research Specializations**:
+- **Bioinformatics**
+- **Search Space Exploration**
+- **Deep Learning**
+- **Knowledge Graphs**
+
+
+
 - 🔭 I’m currently working on **Drug-Drug Interaction Prediction**
 
 <h3 align="left">Connect with me:</h3>
