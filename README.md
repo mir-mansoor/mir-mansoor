@@ -8,7 +8,7 @@
     - *MSc in Software Engineering*
  
 
-**Specializations**:
+- **Specializations**:
 - *Bioinformatics*
 - *Search Space Exploration*
 - *Deep Learning*
