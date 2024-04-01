@@ -7,7 +7,7 @@
  
 
 - **Specializations**:
-  Bioinformatics | Deep Learning | Knowledge Graphs | Design and Analysis Algorithms
+  Bioinformatics | Deep Learning | Machine Learning | Design and Analysis Algorithms
 
 
 
