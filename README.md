@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mir Mansoor Ahmad</h1>
 <h3 align="center">Researcher and Software Developer </h3>
-   - **Current PhD Candidate at UTM University**
+  
+**Current PhD Candidate at UTM University**
 
 - **Education**:
     - **Masters in Computer Applications (MCA)**
